@@ -1,5 +1,5 @@
 /*Originally written for the game Quake III Arena
-More Information at: https://en.wikipedia.org/wiki/Fast_inverse_square_root*/
+More Information at: https://en.wikipedia.org/wiki/Fast_inverse_square_root */
 
 public class Main
 {
